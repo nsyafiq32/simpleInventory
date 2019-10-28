@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1571649784 source:c:\users\asus\documents\kuliah\inventori\sisteminventori\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<cstdlib>
+	<ctime>
+
